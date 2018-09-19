@@ -1,0 +1,84 @@
+﻿ID,Class,Order,Family,Species,Ecoregion ,Extent ,Trophic Level,Trophic Group,Water column,Gregariousness,Ecoregion 2 (trop/sub vs sub/temp),Image,notes,Image source
+18,Osteichthys,Perciformes,Acanthuridae,Acanthurus.dussumeri,trop,Indo-Pac,2,Browsing herbivore,Demersal,2,trop,y,,fishbase
+21,Osteichthys,Perciformes,Aplodactylidae,Aplodactylus.lophodon,sub/temp,E Aus,2,Browsing herbivore,Demersal,2,temp,y,,fishbase
+122,Osteichthys,Tetradontiformes,Monacanthidae,Eubalichthys.mosaicus,temp,S Aus,2.8,Browsing herbivore,Demersal,1,temp,y,,reef life survey
+49,Osteichthys,Perciformes,Girellidae,Girrella.elevata,sub,SW Pac,2,browsing herbivore,Demersal,3,temp,y,,
+53,Osteichthys,Perciformes,Kyphosidae,Kyphosus.sydneyanus,temp,S Aus - SW Pac,2,browsing herbivore,pelagic site attached,3,temp,y,,fishbase
+124,Osteichthys,Tetradontiformes,Monacanthidae,Meuschenia.flavolineata,temp,S Aus,2.8,Browsing herbivore,Demersal,2,temp,y,,reef life survey
+125,Osteichthys,Tetradontiformes,Monacanthidae,Meuschenia.freycineti,temp,E Aus,2.3,Browsing herbivore,Demersal,2,temp,y,,fishbase
+127,Osteichthys,Tetradontiformes,Monacanthidae,Meuschenia.trachylepis,temp,E Aus,2.7,Browsing herbivore,Demersal,2,temp,y,,fishbase
+128,Osteichthys,Tetradontiformes,Monacanthidae,Nelusetta.ayraudi,temp,S Aus - NZ,3,Browsing herbivore,Demersal,3,temp,y,,fishbase
+99,Osteichthys,Perciformes,Pomacentridae,Parma.unifasciata,sub,E Aus,2.7,Browsing herbivore,Demersal,1,temp,y,,fishbase
+100,Osteichthys,Perciformes,Pomacentridae,Pomacentrus.coelestus,trop/sub,W Pac,3.2,Browsing herbivore,Demersal,2,trop,y,,fishbase
+19,Osteichthys,Perciformes,Acanthuridae,Prionurus.maculatus,sub,E Aus-LHI,2,Browsing herbivore,Demersal,3,trop,y,,fishbase
+20,Osteichthys,Perciformes,Acanthuridae,Prionurus.microlepidotus,sub,E Aus,2.7,Browsing herbivore,Demersal,3,trop,y,,fishbase
+112,Osteichthys,Perciformes,Siganidae,Siganus.nebulosus,sub,E + W Aus,2.3,Browsing herbivore,Demersal,3,trop,y,,fishbase
+129,Osteichthys,Tetradontiformes,Monacanthidae,Canthigaster.callisterna,sub,E Aus - NZ,3,higher carnivore,Demersal,1,trop,y,,fishbase
+105,Osteichthys,Perciformes,Serranidae,Acanthistius.ocellatus,temp,SE Aus,4.1,higher carnivore,Demersal,1,temp,y,,fishes of aus
+102,Osteichthys,Perciformes,Scianidae,Argyrosomas.hololepidotus,temp,southern hemisphere,4.5,higher carnivore,benthic,3,temp,y,,fishbase
+,,,,Latropiscis.purpurissatus,,,,Carnivore,,,temp,,,
+15,Osteichthys,Aulopiformes,Aulopidae,Aulopos.purpurissatus,sub/temp,S Australia,4,higher carnivore,benthic,1,temp,y,,fishes of aus
+119,Osteichthys,Syngnathiformes,Aulostomidae,Aulostomus.chinensis,trop,IWP,4.2,higher carnivore,Demersal,1,trop,y,,fishbase
+26,Osteichthys,Perciformes,Carangidae,Caranx.melampygus,trop,Indo-Pac,4.5,higher carnivore,pelagic non-site attached,2,trop,y,,fishbase
+27,Osteichthys,Perciformes,Carangidae,Caranx.sexfasciatus,trop,Indo-Pac,4.5,higher carnivore,pelagic non-site attached,3,trop,y,,fishbase
+2,Chondrichthys,Lamniformes,Odontaspididae,Carcharias.taurus,trop/sub,cosmopolitan,4.5,higher carnivore,Demersal,2,trop,y,SHARK,fishbase
+45,Osteichthys,Perciformes,Dinolestidae,Dinolestes.lewini,temp,S Aus,3.6,higher carnivore,pelagic site attached,3,temp,y,,fishbase
+46,Osteichthys,Perciformes,Echeneididae,Echeneis.naucrates,trop,circum-trop,3.4,higher carnivore,pelagic non-site attached,2,trop,y,REMORA,reef life survey
+106,Osteichthys,Perciformes,Serranidae,Epinephelus.cyanopodus,trop,W Pac,4.1,higher carnivore,Demersal,1,trop,y,,fishbase
+107,Osteichthys,Perciformes,Serranidae,Epinephelus.daemelii,sub,SW Pac,4,higher carnivore,Demersal,1,temp,y,,fishbase
+109,Osteichthys,Perciformes,Serranidae,Epinephelus.undulatostriatus,sub,E Aus,3.8,higher carnivore,Demersal,1,trop,y,,fishbase
+50,Osteichthys,Perciformes,Glaucosomidae,Glaucoma.scapulare,sub,E Aus,4.3,higher carnivore,pelagic site attached,1,temp,y,,fishes of aus
+78,Osteichthys,Perciformes,Lutjanidae,Lutjanus.adetii,trop,W Pac,3.7,higher carnivore,demersal,3,trop,y,,fishbase
+79,Osteichthys,Perciformes,Lutjanidae,Lutjanus.fulviflamma,trop,IWP,3.8,higher carnivore,Demersal,2,trop,y,,fishbase
+80,Osteichthys,Perciformes,Lutjanidae,Lutjanus.russelli,trop,W Pac,4.3,higher carnivore,Demersal,2,trop,y,,fishbase
+9,Chondrichthys,Orectolobiformes,Orectolobidae,Orectolobus.halei,temp,SE Aus,4,higher carnivore,benthic,1,temp,y,WOBBY,http://www.daveharasti.com/nelsonbay/fish/Orectolobus_halei1.jpg
+8,Chondrichthys,Orectolobiformes,Orectolobidae,Orectolobus.maculatus ,temp,SE Aus,4.2,higher carnivore,benthic,1,temp,y,WOBBY,fishbase
+101,Osteichthys,Perciformes,Rachycentridae,rachycentron.canadum,trop,cosmopolitan,4,higher carnivore,Demersal,2,trop,y,,
+103,Osteichthys,Perciformes,Scombridae,Sarda.australis,temp,S Aus,4.5,higher carnivore,pelagic non-site attached,3,temp,y,,fishbase
+31,Osteichthys,Perciformes,Carangidae,Seriola.dumerilii,trop,circum-trop,4.5,higher carnivore,pelagic non-site attached,2,trop,y,,fishbase
+32,Osteichthys,Perciformes,Carangidae,Seriola.hippos,temp,S Aus,4.4,higher carnivore,pelagic non-site attached,2,temp,y,,fishes of aus
+33,Osteichthys,Perciformes,Carangidae,Seriola.lalandi,trop-sub,circum-trop,4.1,higher carnivore,pelagic non-site attached,3,trop,y,,fishbase
+34,Osteichthys,Perciformes,Carangidae,Seriola.nigrofasciata,trop,Indo-Pac,4.2,higher carnivore,pelagic non-site attached,1,trop,y,,fishbase
+35,Osteichthys,Perciformes,Carangidae,Seriola.rivoliana,trop/temp,circum-trop,4.5,higher carnivore,pelagic non-site attached,2,trop,y,,fishbase
+16,Osteichthys,Aulopiformes,Synodontidae,Synodus.jaculum,trop,Indo-Pac,4,higher carnivore,benthic,1,trop,y,,fishbase
+96,Osteichthys,Perciformes,Pomacentridae,Abudefduf.bengalensis,trop,IWP,3.1,benthic invertivore,Demersal,2,trop,y,,fishbase
+3,Chondrichthys,Mylobatiformes,Myliobatidae,Aetobatus.narinari,trop/sub,cosmopolitan,3.2,benthic invertivore,Demersal,1,trop,y,EAGLE RAY,fishbase
+55,Osteichthys,Perciformes,Labridae,Anampses.caeruleopunctatus,trop,Indo-Pac,3.3,benthic invertivore,Demersal,2,trop,y,,fishbase
+56,Osteichthys,Perciformes,Labridae,Anampses.neoguinaicus,trop/sub,W Pac,3.5,benthic invertivore,Demersal,2,trop,y,,fishbase
+23,Osteichthys,Perciformes,Apogonidae,Apogon.limenus,sub/temp,E Aus,3.6,benthic invertivore,pelagic site attached,2,temp,y,,fishbase
+57,Osteichthys,Perciformes,Labridae,Austrolabrus.maculatus,temp,E Aus / SW Aus,3.4,benthic invertivore,Demersal,1,temp,y,,fishbase
+95,Osteichthys,Perciformes,Pomacanthidae,Centropyge.tibicen,trop,Indo-Pac,2.8,benthic invertivore,Demersal,1,trop,y,,fishbase
+37,Osteichthys,Perciformes,Chaetodontidae,Chaetodon.flavirostris,trop/sub,SW  Pac,3,benthic invertivore,Demersal,2,trop,y,,fishbase
+38,Osteichthys,Perciformes,Chaetodontidae,Chaetodon.guentheri,trop/sub,W Pac,2.8,benthic invertivore,Demersal,2,trop,y,,fishbase
+40,Osteichthys,Perciformes,Chaetodontidae,Chelmonops.truncatus,sub,E Aus,2.8,benthic invertivore,Demersal,1,temp,y,,fishbase
+63,Osteichthys,Perciformes,Labridae,Coris.aygula,trop,IWP,3.4,benthic invertivore,Demersal,2,trop,y,,fishbase
+64,Osteichthys,Perciformes,Labridae,Coris.dorsomacula,trop/sub,W Pac,3.3,benthic invertivore,Demersal,1,trop,y,,fishbase
+65,Osteichthys,Perciformes,Labridae,Coris.picta,sub,E Aus - NZ,3.3,benthic invertivore,Demersal,2,temp,y,,fishbase
+5,Chondrichthys,Mylobatiformes,Dasyatididae,Dasyatis.brevicaudata,temp,cosmopolitan,3.9,benthic invertivore,benthic,1,temp,y,RAY,http://www.sciencedirect.com/science/article/pii/S0022098108001299#fig3
+6,Chondrichthys,Mylobatiformes,Dasyatididae,Dasyatis.thetidis,temp,cosmopolitan,3.9,benthic invertivore,benthic,1,temp,,RAY,
+121,Osteichthys,Tetradontiformes,Diodontidae,Dicotylichthys.punctulatus,sub,E Aus,3.5,benthic invertivore,Demersal,1,temp,y,,fishbase
+47,Osteichthys,Perciformes,Enoplosidae,Enoplosus.armatus,temp,S Aus,3.4,benthic invertivore,Demersal,2,temp,y,,fishes of aus
+66,Osteichthys,Perciformes,Labridae,Eupetrichthys.angustipes,temp,S Aus,3.4,benthic invertivore,Demersal,1,temp,y,,http://portphillipmarinelife.net.au/species/8008
+67,Osteichthys,Perciformes,Labridae,Halichoeres.nebulosus,trop,Indo-Pac,3.4,benthic invertivore,Demersal,1,trop,y,,fishbase
+68,Osteichthys,Perciformes,Labridae,Labroides.dimidiatus,trop,Indo-Pac,3.5,cleaner,Demersal,1,trop,y,,fishbase
+126,Osteichthys,Tetradontiformes,Monacanthidae,Meuschenia.scaber,temp,S Aus - NZ,3,benthic invertivore,Demersal,2,temp,y,,fishbase
+4,Chondrichthys,Mylobatiformes,Myliobatidae,Myliobatus.australis,temp,S Aus,3.6,benthic invertivore,Demersal,1,temp,y,RAY,fishbase
+89,Osteichthys,Perciformes,Pempheridae,Pempheris.affinis,sub,E Aus,3.4,benthic invertivore,Demersal,3,temp,y,,fishes of aus
+90,Osteichthys,Perciformes,Pempheridae,Pempheris.compressa,sub,E Aus,3.5,benthic invertivore,Demersal,3,temp,y,,fishbase
+71,Osteichthys,Perciformes,Labridae,Pictilabrus.laticlavius,temp,S Aus,3.5,benthic invertivore,Demersal,1,temp,y,,http://portphillipmarinelife.net.au/species/8008
+24,Osteichthys,Perciformes,Blennidae,Plagiotremus.tapeinosoma,trop/sub,Indo-Pac,3.8,benthic invertivore,benthic,1,trop,y,,fishbase
+74,Osteichthys,Perciformes,Labridae,Stethojulis.interrupta,trop/sub,W Pac,3.5,benthic invertivore,Demersal,2,trop,y,,fishbase
+120,Osteichthys,Tetradontiformes,Balistidae,Suflamen.chrysopterus,trop,Indo-Pac,3.5,benthic invertivore,Demersal,1,trop,y,,fishbase
+94,Osteichthys,Perciformes,Plesiopidae,Trachinops.taeniatus,temp,SE Aus,3.5,benthic invertivore,Demersal,3,temp,y,,
+116,Osteichthys,Perciformes,Zanclidae,Zanclus.cornutus,trop,Indo-Pac,2.9,benthic invertivore,Demersal,2,trop,y,,fishbase
+82,Osteichthys,Perciformes,Scorpididae,Atypichthys.strigatus,sub/temp,SE Aus,3.4,planktivore,pelagic site attached,3,temp,y,,fishbase
+97,Osteichthys,Perciformes,Pomacentridae,Chromis.hypsilepis,temp,E Aus - NZ,2.7,planktivore,Demersal,3,temp,y,,fishbase
+62,Osteichthys,Perciformes,Labridae,Cirrhilabrus.punctatus,trop,IWP,3.4,planktivore,pelagic site attached,2,trop,y,,fishbase
+41,Osteichthys,Perciformes,Chaetodontidae,Heniochus.acuminatus,trop,Indo-Pac,3.5,planktivore,Demersal,2,trop,y,,fishbase
+98,Osteichthys,Perciformes,Pomacentridae,Mecaenichthys.immaculatus,sub/temp,E Aus,2,planktivore,Demersal,2,temp,y,,aus museum
+83,Osteichthys,Perciformes,Scorpididae,Microcanthus.strigatus,sub,"E Aus, W Aus, Japan",3,planktivore,pelagic site attached,3,temp,y,,fishbase
+81,Osteichthys,Perciformes,Lutjanidae,Paracaesio.xanthura,trop,Indo-Pac,3.4,planktivore,pelagic site attached,3,trop,y,,fishbase
+25,Osteichthys,Perciformes,Caesionidae,Pterocaesio.digramma,trop,Indo-Pac,3.4,planktivore,pelagic site attached,3,trop,y,,fishbase
+84,Osteichthys,Perciformes,Monodactylidae,Schuettea.scalaripinnis,sub,E Aus,3.4,planktivore,Demersal,3,temp,y,,fishbase
+104,Osteichthys,Perciformes,Scorpididae,Scorpis.lineolata,sub/temp,E Aus - NZ,3.3,planktivore,pelagic site attached,3,temp,y,,fishbase
+36,Osteichthys,Perciformes,Carangidae,Trachurus.novaezelandiae,temp,S Aus - NZ,3.2,planktivore,pelagic site attached,3,temp,y,,fishbase
